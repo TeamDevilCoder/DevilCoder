@@ -2,7 +2,7 @@
    [![𝘿𝙚𝙫𝙞𝙡𝘾𝙤𝙙𝙚𝙧](https://github-stats-alpha.vercel.app/api?username=TeamDevilCoder "DevilCoder")](https://github-stats-alpha.vercel.app/api?username=TeamDevilCoder "DevilCoder")
                                                           
   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿TeamDevilCoder🌱">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿𝙏𝙚𝙖𝙢 𝘿𝙚𝙫𝙞𝙡 𝘾𝙤𝙙𝙚𝙧🌱">
 
 
 <!--
